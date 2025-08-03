@@ -41,6 +41,7 @@ Python is a high-level, interpreter-based language.
 It is simple, readable, and perfect for beginners.
 Used in web development, data science, AI, automation, and more.
 Has a large number of libraries and a huge community.
+In Python everything is an object.
 
 """
 
